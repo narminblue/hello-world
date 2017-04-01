@@ -1,2 +1,5 @@
 # hello-world
-just an ordinary repository
+
+OMG!
+what is this? Where am i? I do not understand anything
+
